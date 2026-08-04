@@ -7,7 +7,7 @@ latest minor release of each major version.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 0.x     | ✅ Active development |
+| v1.0.0     | ✅ Active development |
 
 ## Reporting a Vulnerability
 
